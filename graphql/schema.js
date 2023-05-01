@@ -9,7 +9,8 @@ const {
     GraphQLList,
     GraphQLInputObjectType,
     GraphQLNonNull,
-    GraphQLString
+    GraphQLString,
+    GraphQLScalarType
 } = require('graphql');
 
 
